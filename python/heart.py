@@ -1,3 +1,4 @@
+# membuat bentuk love menggunakan turtle graphics
 import turtle
 
 pen = turtle.Turtle()
